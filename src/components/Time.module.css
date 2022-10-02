@@ -1,0 +1,17 @@
+.container {
+    margin-top: 50px ;
+   background-color: white;
+   min-height: 100px;
+   min-width: 250px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border: none;
+  border-radius: 2px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.container img {
+  max-width: 5vh;
+  margin-left: 10px;
+}

@@ -1,0 +1,23 @@
+
+.container {
+ color: white;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+
+.container img {
+    margin-top: 7px ;
+    height: 300px;    
+    width: 350px;
+   
+}
+.container h1 {
+    margin-bottom: 50px;
+}
+
+.container a {
+    color: var(--accent);
+    text-decoration: none;
+margin-top: 10px;}
