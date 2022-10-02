@@ -10,7 +10,7 @@ https://github.com/ThalysRD
 
 [Gravação de tela de 01-10-2022 21:35:10.webm](https://user-images.githubusercontent.com/98190034/193433654-da64ee89-e04c-412e-93fd-7bb7b881dcd3.webm)
 
-Before start - enter the clonned repositoryand instal it's the dependencies by typing on your terminal: npm install once installed typy 'npm start' at your terminal to run it on your browser.
+Before start - enter the clonned repository and instal it's the dependencies by typing on your terminal: npm install once installed typy 'npm start' at your terminal to run it on your browser.
 
 It was developed to request the a Q&A API and be #nefected from technologies such as React, Redux, CSS, Html and JavaScript.
 
