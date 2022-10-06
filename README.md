@@ -1,6 +1,6 @@
 # Trivia
 
-This is a educational React project we've done at Trybe, it's proposal is to make a questions and answers game, with a specific timer for the answers, calculating the player's score in case of a hit. It also gives the option of consulting the ranking of the players and also access to the settings to be able to customize the game.
+This is a educational React project we've developed at Trybe, it's proposal is to make a questions and answers game, with a specific timer for the answers, calculating the player's score in case of a hit. It also gives the option of consulting the ranking of the players and also access to the settings to be able to customize the game.
 
 IN COLABORATION WITH 
 
